@@ -1,0 +1,58 @@
+Record Livesession #1 HTML
+https://youtu.be/nvMNbQKNimY
+
+Record Livesession #2 CSS
+https://youtu.be/R1Kfdk1qnrk
+
+Record Livesession #3 Bootstrap
+https://youtu.be/QtJ1J2-RpY4
+
+Record Livesession #4 Javascript
+https://youtu.be/nyO3dbqtIaA
+
+Record Livesession #5 DOM javascript
+https://youtu.be/rwibq9pBEpk
+
+Record Livesession #6 Git + Command Line
+https://youtu.be/1mY-XXkqTU4
+
+Record Livesession #7 PHP 1 (String & Array)
+https://youtu.be/vCzgIP5TXNg
+
+Record Livesession #8 PHP 2 (Looping, Function, Condiitonal)
+https://youtu.be/Je7gAzBMg4w
+
+Record Livesession #9 OOP PHP
+https://youtu.be/55Ju7UjQ_cE
+
+Record Livesession #10 SQL
+https://youtu.be/rgNQhJTuKbY
+
+Record Livesession #11 ERD
+https://www.youtube.com/watch?v=TTHz6_YEmYQ
+
+Record Livesession #12 Laravel Web Statis
+https://youtu.be/eZU3aVgwiag
+
+Record Livesession #13 Laravel Templating
+https://youtu.be/NW6rcOXBZ_M
+
+Record Livesession #14 Laravel Migration
+https://youtu.be/AWq8vpNOxbs
+
+Record Livesession #15 Laravel CRUD Query Builder
+https://youtu.be/Ytq0xaKslxc
+
+Record Livession #16 Laravel CRUD ORM + Query Builder
+https://youtu.be/1iBkC3Y2DUo
+
+Record Livesession #17 Laravel Auth + Middleware
+https://youtu.be/ZSgOvnQepvk
+
+Record Livesession #18 Laravel Eloquent Relationship
+https://youtu.be/17-DqNQRfiM
+
+
+Untuk bisa mengerjakan suatu proyek dengan teman secara jarak jauh (remote) kita dapat gunakan Git.
+Berikut ini demo proyek kolaborasi jarak jauh menggunakan Gitlab: 
+https://www.youtube.com/playlist?list=PL8YCzrSDCR7gUeANwsBmgAf-lxtaJT5yy
